@@ -1,11 +1,3 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{ 'name' : kumar,'eamil' : kumar@gmail.com,'mobile' : 9090990992,'landline' : 7865546,'message' :i want to know about details of 1 }
+{ 'name' : hinduja,'eamil' : hindu@gmail.com,'mobile' : 9090990942,'landline' : 7865598,'message' :i want to know about details of 2 }
+{ 'name' : hari,'eamil' : hari@gmail.com,'mobile' : 9090990978,'landline' : 7865576,'message' :i want to know about details of 3 }
