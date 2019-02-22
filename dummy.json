@@ -1,2 +1,26 @@
-[{ "name" : "kumar","email" : "kumar@gmail.com","mobile" : "9090990992","landline" : "7865546","message" :"i want to know about details of 1" },
-{ "name" : "hinduja","email" : "hindu@gmail.com","mobile" : "9090990942","landline" : "7865598","message" :"i want to know about details of 2"}]
+[
+    {
+        "customerId": 1,
+        "customerName": "kesava",
+        "email": "kesava@gmail.com",
+        "mobileno": "900088767",
+        "landline": "8888888",
+        "message": "good"
+    },
+    {
+        "customerId": 2,
+        "customerName": "pavan",
+        "email": "pavan@gmail.com",
+        "mobileno": "900088767",
+        "landline": "8888888",
+        "message": "good"
+    },
+    {
+        "customerId": 3,
+        "customerName": "uday",
+        "email": "uday@gmail.com",
+        "mobileno": "900088767",
+        "landline": "8888888",
+        "message": "good"
+    }
+]
